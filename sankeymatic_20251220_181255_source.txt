@@ -1,0 +1,85 @@
+// SankeyMATIC diagram inputs - Saved: 20/12/2025, 06:12:55
+// https://sankeymatic.com/build/
+
+// === Nodes and Flows ===
+
+MAT [38646190] A. CAJA MURARIA
+MO [21012143] A. CAJA MURARIA
+GL [4442165] A. CAJA MURARIA
+A. CAJA MURARIA [64100498] C-COSTO
+
+MAT [5324311] B. OBRA GRUESA
+MO [11027443] B. OBRA GRUESA
+GL [25276949] B. OBRA GRUESA
+B. OBRA GRUESA [41628703] C-COSTO
+
+MAT [10890764] C. TERMINACIONES
+MO [10837534] C. TERMINACIONES
+GL [31501244] C. TERMINACIONES
+C. TERMINACIONES [53229542] C-COSTO
+
+D. HONORARIOS  [5985695] C-COSTO
+
+C-COSTO [164944438] PRESUPUESTO TOTAL
+
+IMPUESTOS [71750830] PRESUPUESTO TOTAL
+
+// === Settings ===
+
+size w 600
+ h 600
+margin l 12
+ r 12
+ t 20
+ b 0
+bg color #ffffff
+ transparent N
+node w 12
+ h 50
+ spacing 75
+ border 0
+ theme b
+ color #777777
+ opacity 1
+flow curvature 0.5
+ inheritfrom source
+ color #999999
+ opacity 0.45
+layout order automatic
+ justifyorigins Y
+ justifyends N
+ reversegraph N
+ attachincompletesto nearest
+labels color #000000
+ hide N
+ highlight 0.9
+ fontface sans-serif
+ linespacing 0.2
+ relativesize 129
+ magnify 105
+labelname appears Y
+ size 10
+ weight 400
+labelvalue appears Y
+ fullprecision Y
+ position below
+ weight 400
+labelposition autoalign 1
+ scheme per_stage
+ first before
+ breakpoint 2
+value format ',.'
+ prefix ''
+ suffix ''
+themeoffset a 6
+ b 3
+ c 0
+ d 0
+meta mentionsankeymatic N
+ listimbalances Y
+
+// === Moved Nodes ===
+
+move MAT -0.00247, 0.00781
+move GL -0.00988, 0.00595
+move PRESUPUESTO TOTAL 0, -0.08
