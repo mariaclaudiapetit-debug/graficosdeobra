@@ -1,87 +1,11 @@
-<svg height="600" width="600" xmlns="http://www.w3.org/2000/svg">
-<title>Your Diagram Title</title>
-<!-- Generated with SankeyMATIC: 20/12/2025, 06:21:47 -->
-<rect height="600" width="600" fill="#ffffff"></rect>
-<g transform="translate(82.24613,20)">
-<g id="sankey_flows">
-<path id="flow13" d="M281.96771 120.17089v203.83275L404.95156 324.94884v-203.83275z" fill="#ff9da7" stroke-width="0.5" stroke="#ff9da7" opacity="0.45"><title>C-COSTO → PRESUPUESTO TOTAL: 82,583,814</title></path>
-<path id="flow14" d="M12 497.08241C208.47578 497.08241 208.47578 369.28246 404.95156 369.28246" fill="none" stroke-width="88.66725" stroke="#e15759" opacity="0.45"><title>IMPUESTOS → PRESUPUESTO TOTAL: 35,923,959</title></path>
-<path id="flow3" d="M146.98385 74.11237C208.47578 74.11237 208.47578 155.69929 269.96771 155.69929" fill="none" stroke-width="71.0568" stroke="#59a14f" opacity="0.45"><title>A. CAJA MURARIA → C-COSTO: 28,789,001</title></path>
-<path id="flow11" d="M146.98385 307.63847C208.47578 307.63847 208.47578 281.41289 269.96771 281.41289" fill="none" stroke-width="68.53331" stroke="#bab0ab" opacity="0.45"><title>C. TERMINACIONES → C-COSTO: 27,766,600</title></path>
-<path id="flow7" d="M146.98385 191.50629C208.47578 191.50629 208.47578 219.18696 269.96771 219.18696" fill="none" stroke-width="55.91855" stroke="#9c755f" opacity="0.45"><title>B. OBRA GRUESA → C-COSTO: 22,655,666</title></path>
-<path id="flow10" d="M12 317.65165C73.49193 317.65165 73.49193 320.00096 134.98385 320.00096" fill="none" stroke-width="43.80833" stroke="#af7aa1" opacity="0.45"><title>GL → C. TERMINACIONES: 17,749,153</title></path>
-<path id="flow0" d="M12 37.36022v40.18538L134.98385 78.76935v-40.18538z" fill="#76b7b2" stroke-width="0.5" stroke="#76b7b2" opacity="0.45"><title>MAT → A. CAJA MURARIA: 16,281,299</title></path>
-<path id="flow6" d="M12 278.17142C73.49193 278.17142 73.49193 201.8895 134.98385 201.8895" fill="none" stroke-width="35.15213" stroke="#af7aa1" opacity="0.45"><title>GL → B. OBRA GRUESA: 14,242,053</title></path>
-<path id="flow1" d="M12 158.48285C73.49193 158.48285 73.49193 91.11919 134.98385 91.11919" fill="none" stroke-width="24.69967" stroke="#edc949" opacity="0.45"><title>MO → A. CAJA MURARIA: 10,007,190</title></path>
-<path id="flow9" d="M12 190.70567C73.49193 190.70567 73.49193 291.22873 134.98385 291.22873" fill="none" stroke-width="13.73614" stroke="#edc949" opacity="0.45"><title>MO → C. TERMINACIONES: 5,565,262</title></path>
-<path id="flow5" d="M12 170.83268v13.00492L134.98385 184.31344v-13.00492z" fill="#edc949" stroke-width="0.5" stroke="#edc949" opacity="0.45"><title>MO → B. OBRA GRUESA: 5,269,004</title></path>
-<path id="flow8" d="M12 90.80153C73.49193 90.80153 73.49193 278.86624 134.98385 278.86624" fill="none" stroke-width="10.98885" stroke="#76b7b2" opacity="0.45"><title>MAT → C. TERMINACIONES: 4,452,185</title></path>
-<path id="flow12" d="M12 394.68049C140.98385 394.68049 140.98385 319.84159 269.96771 319.84159" fill="none" stroke-width="8.3241" stroke="#4e79a7" opacity="0.45"><title>D. HONORARIOS → C-COSTO: 3,372,547</title></path>
-<path id="flow4" d="M12 81.42635C73.49193 81.42635 73.49193 167.42777 134.98385 167.42777" fill="none" stroke-width="7.7615" stroke="#76b7b2" opacity="0.45"><title>MAT → B. OBRA GRUESA: 3,144,610</title></path>
-<path id="flow2" d="M12 257.50948C73.49193 257.50948 73.49193 106.55489 134.98385 106.55489" fill="none" stroke-width="6.17174" stroke="#af7aa1" opacity="0.45"><title>GL → A. CAJA MURARIA: 2,500,512</title></path>
-</g>
-<g id="sankey_nodes">
-<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-<rect id="r0" class="for_r0" x="0" y="33.29103" height="58.93573" width="12" fill="#76b7b2" fill-opacity="1" transform="translate(0,4.06919)"><title>MAT:
-23,878,094</title></rect>
-</g>
-<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-<rect id="r1" class="for_r1" x="134.98385" y="38.58397" height="71.0568" width="12" fill="#59a14f" fill-opacity="1"><title>A. CAJA MURARIA:
-28,789,001</title></rect>
-</g>
-<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-<rect id="r2" class="for_r2" x="0" y="146.13301" height="51.44073" width="12" fill="#edc949" fill-opacity="1"><title>MO:
-20,841,456</title></rect>
-</g>
-<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-<rect id="r3" class="for_r3" x="0" y="251.47999" height="85.1322" width="12" fill="#af7aa1" fill-opacity="1" transform="translate(0,2.94362)"><title>GL:
-34,491,718</title></rect>
-</g>
-<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-<rect id="r4" class="for_r4" x="269.96771" y="120.17089" height="203.83275" width="12" fill="#ff9da7" fill-opacity="1"><title>C-COSTO:
-82,583,814</title></rect>
-</g>
-<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-<rect id="r5" class="for_r5" x="134.98385" y="163.54702" height="55.91855" width="12" fill="#9c755f" fill-opacity="1"><title>B. OBRA GRUESA:
-22,655,667</title></rect>
-</g>
-<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-<rect id="r6" class="for_r6" x="134.98385" y="273.37181" height="68.53331" width="12" fill="#bab0ab" fill-opacity="1"><title>C. TERMINACIONES:
-27,766,600</title></rect>
-</g>
-<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-<rect id="r7" class="for_r7" x="0" y="390.51844" height="8.3241" width="12" fill="#4e79a7" fill-opacity="1"><title>D. HONORARIOS:
-3,372,547</title></rect>
-</g>
-<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-<rect id="r8" class="for_r8" x="404.95156" y="144.11609" height="292.5" width="12" fill="#f28e2c" fill-opacity="1" transform="translate(0,-23)"><title>PRESUPUESTO TOTAL:
-118,507,773</title></rect>
-</g>
-<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-<rect id="r9" class="for_r9" x="0" y="452.74878" height="88.66725" width="12" fill="#e15759" fill-opacity="1"><title>IMPUESTOS:
-35,923,959</title></rect>
-</g>
-</g>
-<g id="sankey_labels" font-family="sans-serif" font-size="10px" fill="#000000">
-<rect id="label0_bg" class="for_r0" x="-69.58365" y="50.02707" width="68.76158" height="25.30364" rx="2.5" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,4.06919)"></rect>
-<text id="label0" class="for_r0" text-anchor="end" x="-3.93652" y="62.7589" font-weight="400" font-size="6.87145px" dy="-4.65183" transform="translate(0,4.06919)">MAT<tspan x="-3.93652" dy="12.74364" font-weight="400" font-size="12.48475px">23,878,094</tspan></text>
-<rect id="label1_bg" class="for_r1" x="147.60443" y="61.35246" width="69.22557" height="25.35981" rx="2.5" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label1" class="for_r1" text-anchor="start" x="150.92037" y="74.11237" font-weight="400" font-size="6.90173px" dy="-4.67991">A. CAJA MURARIA<tspan x="150.92037" dy="12.7998" font-weight="400" font-size="12.53977px">28,789,001</tspan></text>
-<rect id="label2_bg" class="for_r2" x="-69.40865" y="159.13894" width="68.38807" height="25.2689" rx="2.5" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label2" class="for_r2" text-anchor="end" x="-3.93652" y="171.85338" font-weight="400" font-size="6.85272px" dy="-4.63445">MO<tspan x="-3.93652" dy="12.70891" font-weight="400" font-size="12.45073px">20,841,456</tspan></text>
-<rect id="label3_bg" class="for_r3" x="-70.1649" y="281.25359" width="69.2831" height="25.425" rx="2.5" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,2.94362)"></rect>
-<text id="label3" class="for_r3" text-anchor="end" x="-3.93652" y="294.04609" font-weight="400" font-size="6.9369px" dy="-4.7125" transform="translate(0,2.94362)">GL<tspan x="-3.93652" dy="12.86502" font-weight="400" font-size="12.60367px">34,491,718</tspan></text>
-<rect id="label4_bg" class="for_r4" x="282.98827" y="209.01975" width="71.85058" height="25.97502" rx="2.5" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label4" class="for_r4" text-anchor="start" x="285.90422" y="222.08726" font-weight="400" font-size="7.23347px" dy="-4.98751">C-COSTO<tspan x="285.90422" dy="13.41503" font-weight="400" font-size="13.1425px">82,583,814</tspan></text>
-<rect id="label5_bg" class="for_r5" x="148.00443" y="178.78146" width="68.48806" height="25.28966" rx="2.5" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label5" class="for_r5" text-anchor="start" x="150.92037" y="191.50629" font-weight="400" font-size="6.86391px" dy="-4.64483">B. OBRA GRUESA<tspan x="150.92037" dy="12.72966" font-weight="400" font-size="12.47105px">22,655,667</tspan></text>
-<rect id="label6_bg" class="for_r6" x="148.00443" y="294.88442" width="72.20681" height="25.3481" rx="2.5" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label6" class="for_r6" text-anchor="start" x="150.92037" y="307.63847" font-weight="400" font-size="6.89543px" dy="-4.67405">C. TERMINACIONES<tspan x="150.92037" dy="12.78811" font-weight="400" font-size="12.52832px">27,766,600</tspan></text>
-<rect id="label7_bg" class="for_r7" x="-61.80864" y="382.54992" width="60.78807" height="24.26912" rx="2.5" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label7" class="for_r7" text-anchor="end" x="-3.93652" y="394.68049" font-weight="400" font-size="6.745px" dy="-4.45057">D. HONORARIOS<tspan x="-3.93652" dy="12.50912" font-weight="400" font-size="12.255px">3,372,547</tspan></text>
-<rect id="label8_bg" class="for_r8" x="417.97215" y="276.80917" width="87.78173" height="26.78587" rx="2.5" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-23)"></rect>
-<text id="label8" class="for_r8" text-anchor="start" x="420.88808" y="290.36609" font-weight="400" font-size="7.455px" dy="-5.07694" transform="translate(0,-23)">PRESUPUESTO TOTAL<tspan x="420.88808" dy="13.82587" font-weight="400" font-size="13.545px">118,507,773</tspan></text>
-<rect id="label9_bg" class="for_r9" x="-70.24615" y="484.28173" width="69.22557" height="25.44139" rx="2.5" fill="#fff" fill-opacity="0.9" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label9" class="for_r9" text-anchor="end" x="-3.93652" y="497.08241" font-weight="400" font-size="6.94573px" dy="-4.7207">IMPUESTOS<tspan x="-3.93652" dy="12.8814" font-weight="400" font-size="12.61971px">35,923,959</tspan></text>
-</g>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="700" aria-label="A chart." style="overflow: hidden;"><defs id="_ABSTRACT_RENDERER_ID_0"/><g><path d="M15,0C102.77777777777777,0,190.55555555555554,0,278.3333333333333,0L278.3333333333333,62.44189933699268C190.55555555555554,62.44189933699268,102.77777777777777,62.44189933699268,15,62.44189933699268Z" stroke="none" stroke-width="0" fill-opacity="0.6" fill="#7fb8b8"/><path d="M15,151.57706010447757C102.77777777777777,151.57706010447757,190.55555555555554,62.44189933699268,278.3333333333333,62.44189933699268L278.3333333333333,100.82138917069052C190.55555555555554,100.82138917069052,102.77777777777777,189.9565499381754,15,189.9565499381754Z" stroke="none" stroke-width="0" fill-opacity="0.6" fill="#b19cd9"/><path d="M15,291.50803428367794C102.77777777777777,291.50803428367794,190.55555555555554,100.82138917069052,278.3333333333333,100.82138917069052L278.3333333333333,110.41133085570767C190.55555555555554,110.41133085570767,102.77777777777777,301.0979759686951,15,301.0979759686951Z" stroke="none" stroke-width="0" fill-opacity="0.6" fill="#70ad47"/><path d="M293.3333333333333,0C381.1111111111111,0,468.88888888888886,0,556.6666666666666,0L556.6666666666666,110.41133085570766C468.88888888888886,110.41133085570766,381.1111111111111,110.41133085570766,293.3333333333333,110.41133085570766Z" stroke="none" stroke-width="0" fill-opacity="0.6" fill="#f2d16d"/><path d="M15,62.44189933699268C102.77777777777777,62.44189933699268,190.55555555555554,170.41133085570766,278.3333333333333,170.41133085570766L278.3333333333333,182.4715109280368C190.55555555555554,182.4715109280368,102.77777777777777,74.50207940932181,15,74.50207940932181Z" stroke="none" stroke-width="0" fill-opacity="0.6" fill="#7fb8b8"/><path d="M15,189.9565499381754C102.77777777777777,189.9565499381754,190.55555555555554,182.4715109280368,278.3333333333333,182.4715109280368L278.3333333333333,202.67914873402256C190.55555555555554,202.67914873402256,102.77777777777777,210.16418774416118,15,210.16418774416118Z" stroke="none" stroke-width="0" fill-opacity="0.6" fill="#b19cd9"/><path d="M15,301.0979759686951C102.77777777777777,301.0979759686951,190.55555555555554,202.67914873402256,278.3333333333333,202.67914873402256L278.3333333333333,257.30014920230843C190.55555555555554,257.30014920230843,102.77777777777777,355.718976436981,15,355.718976436981Z" stroke="none" stroke-width="0" fill-opacity="0.6" fill="#70ad47"/><path d="M293.3333333333333,170.41133085570766C381.1111111111111,170.41133085570766,468.88888888888886,110.41133085570766,556.6666666666666,110.41133085570766L556.6666666666666,197.30014920230843C468.88888888888886,197.30014920230843,381.1111111111111,257.30014920230843,293.3333333333333,257.30014920230843Z" stroke="none" stroke-width="0" fill-opacity="0.6" fill="#d9d9d9"/><path d="M15,74.50207940932181C102.77777777777777,74.50207940932181,190.55555555555554,317.30014920230843,278.3333333333333,317.30014920230843L278.3333333333333,334.3751298974642C190.55555555555554,334.3751298974642,102.77777777777777,91.57706010447758,15,91.57706010447758Z" stroke="none" stroke-width="0" fill-opacity="0.6" fill="#7fb8b8"/><path d="M15,210.16418774416118C102.77777777777777,210.16418774416118,190.55555555555554,334.3751298974642,278.3333333333333,334.3751298974642L278.3333333333333,355.71897643698094C190.55555555555554,355.71897643698094,102.77777777777777,231.50803428367792,15,231.50803428367792Z" stroke="none" stroke-width="0" fill-opacity="0.6" fill="#b19cd9"/><path d="M15,355.718976436981C102.77777777777777,355.718976436981,190.55555555555554,355.71897643698094,278.3333333333333,355.71897643698094L278.3333333333333,423.79037551941576C190.55555555555554,423.79037551941576,102.77777777777777,423.79037551941576,15,423.79037551941576Z" stroke="none" stroke-width="0" fill-opacity="0.6" fill="#70ad47"/><path d="M293.3333333333333,317.30014920230843C381.1111111111111,317.30014920230843,468.88888888888886,210.23451235885096,556.6666666666666,210.23451235885096L556.6666666666666,316.7247386759583C468.88888888888886,316.7247386759583,381.1111111111111,423.79037551941576,293.3333333333333,423.79037551941576Z" stroke="none" stroke-width="0" fill-opacity="0.6" fill="#4a86e8"/><path d="M15,483.79037551941576C195.55555555555554,483.79037551941576,376.1111111111111,197.30014920230843,556.6666666666666,197.30014920230843L556.6666666666666,210.23451235885094C376.1111111111111,210.23451235885094,195.55555555555554,496.72473867595824,15,496.72473867595824Z" stroke="none" stroke-width="0" fill-opacity="0.6" fill="#f4cccc"/><path d="M571.6666666666666,0C659.4444444444445,0,747.2222222222222,0,835,0L835,316.72473867595824C747.2222222222222,316.72473867595824,659.4444444444445,316.72473867595824,571.6666666666666,316.72473867595824Z" stroke="none" stroke-width="0" fill-opacity="0.6" fill="#9e7d62"/><path d="M15,556.7247386759582C288.3333333333333,556.7247386759582,561.6666666666666,316.72473867595824,835,316.72473867595824L835,454.5000000000001C561.6666666666666,454.5000000000001,288.3333333333333,694.5,15,694.5Z" stroke="none" stroke-width="0" fill-opacity="0.6" fill="#e06666"/></g><g><text text-anchor="start" x="30" y="49.638530052238785" font-family="Arial" font-size="11" font-weight="bold" stroke="none" stroke-width="0" fill="#000000">MAT
+23,878,093.489</text><text text-anchor="start" x="308.3333333333333" y="59.05566542785384" font-family="Arial" font-size="11" font-weight="bold" stroke="none" stroke-width="0" fill="#000000">A. CAJA MURARIA
+57,578,002.12</text><text text-anchor="start" x="30" y="195.39254719407776" font-family="Arial" font-size="11" font-weight="bold" stroke="none" stroke-width="0" fill="#000000">MO
+20,841,456.058</text><text text-anchor="start" x="30" y="361.4992049015469" font-family="Arial" font-size="11" font-weight="bold" stroke="none" stroke-width="0" fill="#000000">GL
+34,491,717.766</text><text text-anchor="end" x="541.6666666666666" y="162.2123693379791" font-family="Arial" font-size="11" font-weight="bold" stroke="none" stroke-width="0" fill="#000000">C-COSTO
+165,167,628.481</text><text text-anchor="start" x="308.3333333333333" y="217.70574002900804" font-family="Arial" font-size="11" font-weight="bold" stroke="none" stroke-width="0" fill="#000000">B. OBRA GRUESA
+45,311,332.887</text><text text-anchor="start" x="308.3333333333333" y="374.39526236086215" font-family="Arial" font-size="11" font-weight="bold" stroke="none" stroke-width="0" fill="#000000">C. TERMINACIONES
+55,533,199.619</text><text text-anchor="start" x="30" y="494.10755709768705" font-family="Arial" font-size="11" font-weight="bold" stroke="none" stroke-width="0" fill="#000000">D. HONORARIOS 
+3,372,546.927</text><text text-anchor="end" x="820" y="231.10000000000005" font-family="Arial" font-size="11" font-weight="bold" stroke="none" stroke-width="0" fill="#000000">PRESUPUESTO TOTAL
+118,507,773.435</text><text text-anchor="start" x="30" y="629.4623693379791" font-family="Arial" font-size="11" font-weight="bold" stroke="none" stroke-width="0" fill="#000000">IMPUESTOS
+35,923,959.195</text><rect x="0" y="0" width="15" height="91.57706010447757" stroke="none" stroke-width="0" fill-opacity="0.8" fill="#7fb8b8"/><rect x="278.3333333333333" y="0" width="15" height="110.41133085570767" stroke="none" stroke-width="0" fill-opacity="0.8" fill="#f2d16d"/><rect x="0" y="151.57706010447757" width="15" height="79.93097417920038" stroke="none" stroke-width="0" fill-opacity="0.8" fill="#b19cd9"/><rect x="0" y="291.50803428367794" width="15" height="132.28234123573782" stroke="none" stroke-width="0" fill-opacity="0.8" fill="#70ad47"/><rect x="556.6666666666666" y="0" width="15" height="316.72473867595824" stroke="none" stroke-width="0" fill-opacity="0.8" fill="#9e7d62"/><rect x="278.3333333333333" y="170.41133085570766" width="15" height="86.88881834660077" stroke="none" stroke-width="0" fill-opacity="0.8" fill="#d9d9d9"/><rect x="278.3333333333333" y="317.30014920230843" width="15" height="106.49022631710733" stroke="none" stroke-width="0" fill-opacity="0.8" fill="#4a86e8"/><rect x="0" y="483.79037551941576" width="15" height="12.934363156542474" stroke="none" stroke-width="0" fill-opacity="0.8" fill="#f4cccc"/><rect x="835" y="0" width="15" height="454.5000000000001" stroke="none" stroke-width="0" fill-opacity="0.8" fill="#e06666"/><rect x="0" y="556.7247386759582" width="15" height="137.77526132404182" stroke="none" stroke-width="0" fill-opacity="0.8" fill="#e69138"/></g><g/><g/><g/><g/><g/></svg>
